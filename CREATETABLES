@@ -5,7 +5,7 @@ CREATE TABLE Employee(
   Employee_Id NUMBER(6),
   First_Name VARCHAR2(25),
   Last_Name VARCHAR2(25), 
-  Hire_Date DATE,
+  Hire_Date DATE, 
   City VARCHAR2(25),
   State VARCHAR2(25),
   CONSTRAINT EMPLOYEE_PK PRIMARY KEY (Employee_Id));
