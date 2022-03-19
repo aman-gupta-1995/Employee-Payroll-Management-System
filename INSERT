@@ -10,7 +10,7 @@ INSERT INTO Employee VALUES (109,'Kalpita','Malvankar',to_date('24-APR-16', 'dd-
 INSERT INTO Employee VALUES (110,'Saylee','Bhagat',to_date('21-MAY-14', 'dd-MON-yyyy'),'San Francisco','California',7);
  
 
-INSERT INTO Department VALUES (1,'Human Resources');
+INSERT INTO Department VALUES (1,'Human Resources'); 
 INSERT INTO Department VALUES (2,'Software Development'); 
 INSERT INTO Department VALUES (3,'Data Analysis');   
 INSERT INTO Department VALUES (4,'Data Science');  
