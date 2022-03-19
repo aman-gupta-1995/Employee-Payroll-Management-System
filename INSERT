@@ -30,7 +30,7 @@ INSERT INTO AccountDetails VALUES (40,'Santander','S12344',101);
 INSERT INTO AccountDetails VALUES (41,'Santander','S12345',102);
 INSERT INTO AccountDetails VALUES (42,'Santander','S12346',103);
 INSERT INTO AccountDetails VALUES (43,'Santander','S12347',104);
-INSERT INTO AccountDetails VALUES (44,'Chase','C12344',105);
+INSERT INTO AccountDetails VALUES (44,'Chase','C12344',105); 
 INSERT INTO AccountDetails VALUES (45,'Chase','C12345',106);
 INSERT INTO AccountDetails VALUES (46,'Chase','C12347',107);
 INSERT INTO AccountDetails VALUES (47,'Chase','C12334',108);
