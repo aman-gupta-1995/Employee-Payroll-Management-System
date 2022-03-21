@@ -7,7 +7,7 @@ where Department.Department_Id = Employee.Department_Id
 group by Department_Name, No_of_Employees.cnt 
 /   
  
----------------------------------------     
+---------------------------------------      
 Materialized Views 
 -----------------------------------------
 
