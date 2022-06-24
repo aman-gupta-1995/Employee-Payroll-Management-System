@@ -9,7 +9,7 @@ group by Department_Name, No_of_Employees.cnt
         
 ---------------------------------------              
 Materialized Views      
------------------------------------------   
+-----------------------------------------    
 
 Number of Employees with different degrees 
 ---------------------------------------------
