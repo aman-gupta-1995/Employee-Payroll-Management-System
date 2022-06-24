@@ -11,7 +11,7 @@ group by Department_Name, No_of_Employees.cnt
 Materialized Views   
 -----------------------------------------
 
-Number of Employees with different degrees
+Number of Employees with different degrees 
 ---------------------------------------------
 create materialized view Education_View
 	 build immediate
