@@ -1,7 +1,7 @@
 --CREATE TABLES--
 Employee
 ---------------------------------------------------
-CREATE TABLE Employee(
+CREATE TABLE Employee( 
   Employee_Id NUMBER(6),
   First_Name VARCHAR2(25),
   Last_Name VARCHAR2(25),  
